@@ -17,6 +17,8 @@ Present sales performance in a clear, easy-to-explore format. The dashboard summ
   - Average Order Value
 - Interactive Plotly charts for revenue by category, monthly revenue, and sales versus profit.
 - Currency and percentage formatting, chart hover details, and a friendly message when no records match.
+- Filter-aware analysis tabs for subcategory profitability, month-over-month revenue growth, regional results, discount versus profit, product rankings, and dynamically calculated business insights.
+- Monthly growth is not calculated when the prior month's filtered revenue is zero or outside the selected date range. Future-dated source records are flagged and remain available for analysis.
 
 ## Technology stack
 
